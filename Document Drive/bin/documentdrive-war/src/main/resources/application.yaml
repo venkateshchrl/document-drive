@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: documentdrive
+    
+    
+server:
+  port: 5000
+
+documentdrive:
+  service:
